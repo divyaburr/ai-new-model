@@ -1,4 +1,6 @@
 import pandas
 
 def test():
-    print("hello")   # IndentationError
+    print("hello")
+
+test()   # function call mandatory
